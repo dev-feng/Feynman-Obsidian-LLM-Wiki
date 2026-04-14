@@ -1,4 +1,4 @@
-# Karpathy-Learning-System
+# **Feynman-Obsidian-LLM-Wiki**
 
 ✨ 基于 Karpathy 知识库理念 + 费曼学习法 + Obsidian 的全自动个人学习系统
 
